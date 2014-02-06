@@ -8,6 +8,5 @@ Maintainer: zhangway <djang.wei@gmail.com>
 Description: create basic graph for runkeeper data
 License: Apache2
 LazyData: true
-Imports:
-    
+Imports: 
 Suggests: opencpu (>= 1.0.1)
