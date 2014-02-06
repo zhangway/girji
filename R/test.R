@@ -1,3 +1,3 @@
-test <- function(){
-  c(1,3,5,7,9)
+f1 <- function(x, y) {
+  x+y
 }
