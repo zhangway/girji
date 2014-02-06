@@ -1,0 +1,13 @@
+Package: girji
+Type: OpenCPU Application
+Title: create basic graph for runkeeper data
+Version: 0.1
+Date: 2014-02-06
+Author: Wei Zhang
+Maintainer: zhangway <djang.wei@gmail.com>
+Description: create basic graph for runkeeper data
+License: Apache2
+LazyData: true
+Imports:
+    
+Suggests: opencpu (>= 1.0.1)
